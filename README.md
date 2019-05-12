@@ -1,3 +1,3 @@
---- Nanodegree, Programming for Data Science
+#### Nanodegree, Programming for Data Science
 
---- Foundational programming course: Python; SQL; command line; git.
+##### Foundational programming course: Python; SQL; command line; git.
